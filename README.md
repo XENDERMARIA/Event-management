@@ -50,8 +50,8 @@ A full-stack MERN application for creating, managing, and RSVPing to events with
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
-- **Backend API**: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- **Frontend**: event-management-tau-flax.vercel.app
+- **Backend API**: https://eventplatform-api-9axr.onrender.com
 
 ---
 
